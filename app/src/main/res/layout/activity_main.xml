@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="willybrodus.binar_test.MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Isi Resto"
+        android:id="@+id/btnIsiResto"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="List Resto"
+        android:id="@+id/btnListResto"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Isi Order"
+        android:id="@+id/btnIsiOrder"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="List Order"
+        android:id="@+id/btnListOrder"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Isi User"
+        android:id="@+id/btnIsiUser"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="List User"
+        android:id="@+id/btnListUser"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Isi Menu"
+        android:id="@+id/btnIsiMenu"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <Button
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="List Menu"
+        android:id="@+id/btnListMenu"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+</LinearLayout>
